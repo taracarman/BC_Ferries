@@ -2,6 +2,7 @@
 Data and analysis of BC Ferries reservations data in 2016
 The raw data file is how the data was received by CBC News from BC Ferries.
 The clean data file adds separate columns for sailing dates and times as well as several calculated fields. Column names have been changed so that they can be analyzed in Python. 
+CBC's analysis is based on running the clean data file through the code in the Jupyter notebook.
 
 Notes on this data from BC Ferries:
 
